@@ -16,7 +16,7 @@
 ## Github Stats
 | Stats                                                                                                                                       | Languages                                                                                                                         |
 |-----------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------|
-| ![CapedDemon's github stats](https://github-readme-stats.vercel.app/api?username=CapedDemon&show_icons=true&theme=radical&include_all_commits=true) | ![CapedDemon's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=CapedDemon&theme=radical&layout=compact) |
+| ![the-coder-boy's github stats](https://github-readme-stats.vercel.app/api?username=the-coder-boy&show_icons=true&theme=radical&include_all_commits=true) | ![the-coder-boy's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=the-coder-boy&theme=radical&layout=compact) |
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=the-coder-boy"></img>
 
