@@ -1,3 +1,6 @@
+[![MasterHead](https://visme.co/blog/wp-content/uploads/2019/10/animated-presentation-software-header.gif)]()
+<br/>
+
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=Hello,+There!+👋;I'm+Shreejan - a.k.a - the-coder-boy+👨‍💻;Nice+to+meet+you!&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000" alt="Example Usage - README Typing SVG">
 </p>
