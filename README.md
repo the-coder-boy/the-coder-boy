@@ -32,6 +32,12 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" height="40" width="52" alt="git logo"  />
 </div>
 
+</br></br>
+
+## The Octocat
+
+![octocat-1697528562465](https://github.com/the-coder-boy/the-coder-boy/assets/145888668/291f3b10-23cd-4070-b1e9-43167599f64b)
+
 
 </br></br>
 
