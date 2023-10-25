@@ -1,28 +1,25 @@
-[![MasterHead](https://visme.co/blog/wp-content/uploads/2019/10/animated-presentation-software-header.gif)]()
-<br/>
-
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Hello,+There!+👋;I'm+Shreejan - a.k.a - the-coder-boy+👨‍💻;Nice+to+meet+you!&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000" alt="Example Usage - README Typing SVG">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Hello,+There!+👋;Shreejan-a.k.a-the-coder-boy+👨‍💻;Nice+to+meet+you!&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000" alt="Example Usage - README Typing SVG">
 </p>
 
-<div align="center" style="border-radius='5px'">
+<h1 align="center"> Hey there, This is Shreejan 👋 </h1> 
+
+<br/>
 
 <div align="center">
-<h3 align="center">Hi! Everyone.</br>I am Shreejan </h3>
-<ul>
-<li>🌱I'm currently learning <b>new things and trying to develop my skills</b> </li>
-<li>💬 Ask me about <b>on coding problems.</b></li>
-<li>👯 I’m looking to collaborate on <b>Github</b></li>
-<li>📫 You can reach me by sending a mail on <b>shreejanOfficial2007@gmail.com</b></li>
+  
+<img alt="Discord" src="https://img.shields.io/discord/1166649288319832115?style=for-the-badge">  <img alt="X (formerly Twitter) Follow" src="https://img.shields.io/twitter/follow/Itz_Shreejan?style=for-the-badge"> <img src="https://img.shields.io/badge/%27Contributing%20to%20open%27%20source-20B2AA?style=for-the-badge"> 
+  
+</div>
 
-</br></br>
+<br/><br/>
 
-###
+![codinggif1 (1)](https://github.com/the-coder-boy/the-coder-boy/assets/145888668/6029bb5f-937a-4e7c-b33f-e9627606def6)
+
+
+<br/><br/>
 
 <h2 align="center">Techs I Use</h2>
-
-###
-
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" width="52" alt="python logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" width="52" alt="pandas logo"  />
@@ -45,5 +42,7 @@
 
 </br></br></br>
 
-# Achievements
+# Badges
 [![@shreejan_35's Holopin board](https://holopin.io/api/user/board?user=shreejan_35)](https://holopin.io/@shreejan_35)
+
+
