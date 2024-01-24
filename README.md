@@ -8,7 +8,7 @@
 
 <div align="center">
   
-<img alt="Discord" src="https://img.shields.io/discord/1166649288319832115?style=for-the-badge">  <img alt="X (formerly Twitter) Follow" src="https://img.shields.io/twitter/follow/Itz_Shreejan?style=for-the-badge"> <img src="https://img.shields.io/badge/%27Contributing%20to%20open%27%20source-20B2AA?style=for-the-badge"> 
+<img alt="X (formerly Twitter) Follow" src="https://img.shields.io/twitter/follow/Itz_Shreejan?style=for-the-badge"> <img src="https://img.shields.io/badge/%27Contributing%20to%20open%27%20source-20B2AA?style=for-the-badge"> 
   
 </div>
 
